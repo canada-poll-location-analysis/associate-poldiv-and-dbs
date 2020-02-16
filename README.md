@@ -1,6 +1,6 @@
 # Associate Poll Divs and DBs
 
-Code to associate polling divisions and dissementation blocks
+Code to associate polling divisions and dissemination blocks
 
 ## Requirements
 
